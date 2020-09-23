@@ -1,5 +1,5 @@
 # SPOJ
-Solutions (or attempts) to some old SPOJ problems and contests.
+Solutions (or attempts) to some old [SPOJ](https://www.spoj.com/) problems and contests.
 
 ## ITS2
 Scored [62nd place](https://www.spoj.com/ITS2/ranks/) (top 34% out of 182 contestants)
