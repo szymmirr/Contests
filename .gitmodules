@@ -1,6 +1,6 @@
 [submodule "SIZECON"]
-	path = SIZECON
+	path = SPOJ/SIZECON
 	url = https://github.com/szymmirr/SIZECON
 [submodule "WIPING"]
-	path = WIPING
+	path = SPOJ/WIPING
 	url = https://github.com/szymmirr/WIPING
