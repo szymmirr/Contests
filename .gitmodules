@@ -1,0 +1,6 @@
+[submodule "SIZECON"]
+	path = SIZECON
+	url = https://github.com/szymmirr/SIZECON
+[submodule "WIPING"]
+	path = WIPING
+	url = https://github.com/szymmirr/WIPING
