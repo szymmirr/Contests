@@ -15,3 +15,6 @@ Scored [5th place](https://www.spoj.com/K_PROGR/ranks/) (**top 28%** out of 18 c
 
 ## WIPING3
 Scored [22nd place](https://www.spoj.com/WIPING3/ranks/) (**top 9%** out of 238 contestants) and [8th place](http://www.wiping.pl/2015/04/ping-3-rozstrzygniety/) locally! (**top 27%** out of 29 finalists)
+
+## WWSI
+Scored [11th place](https://www.spoj.com/WWSI/ranks2/) (**top 19%** out of 57 contestants)
