@@ -18,3 +18,11 @@ Scored [22nd place](https://www.spoj.com/WIPING3/ranks/) (**top 9%** out of 238 
 
 ## WWSI
 Scored [11th place](https://www.spoj.com/WWSI/ranks2/) (**top 19%** out of 57 contestants)
+
+## Wielki Test SzczecINformatyczny
+[First place!](https://web.archive.org/web/20170515195525/http://www.wi.zut.edu.pl:80/aktualnosci/6949-wielki-test-szczecinformatyczny-2017) 🏆 (out of 44 contestants)
+
+Five participants somehow managed to get the same score, therefore I'm not even credited as a winner :( Anyway I won a tablet which I use for some BOINC computation nowadays!
+
+![Wielki Test SzczecINformatyczny](https://user-images.githubusercontent.com/12998256/96627089-a6932e00-1310-11eb-83da-9f6d08019b2d.JPG)
+![BOINC](https://user-images.githubusercontent.com/12998256/96627326-f96ce580-1310-11eb-9fcf-d6b83ee153bc.JPG)
