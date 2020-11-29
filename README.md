@@ -19,6 +19,9 @@ Scored [22nd place](https://www.spoj.com/WIPING3/ranks/) (**top 9%** out of 238 
 ## WWSI
 Scored [11th place](https://www.spoj.com/WWSI/ranks2/) (**top 19%** out of 57 contestants)
 
+## SIZECON
+Top scores in most of major programming languages: [C++](https://www.spoj.com/ranks/SIZECON/lang=CPP), [C++14](https://www.spoj.com/ranks/SIZECON/lang=CPP14), [C](https://www.spoj.com/ranks/SIZECON/lang=C), [C#](https://www.spoj.com/ranks/SIZECON/lang=CS), [Java](https://www.spoj.com/ranks/SIZECON/lang=JAVA), [Python 2.4](https://www.spoj.com/ranks/SIZECON/lang=PYPY2.4), [Python 3.2.3](https://www.spoj.com/ranks/SIZECON/lang=PYTH%203.2.3%20n), [PHP](https://www.spoj.com/ranks/SIZECON/lang=PHP), [JavaScript](https://www.spoj.com/ranks/SIZECON/lang=JS2), [bash](https://www.spoj.com/ranks/SIZECON/lang=BASH), [Pascal](https://www.spoj.com/ranks/SIZECON/lang=PAS%20gpc) (out of 10000+ contestants)
+
 ## Wielki Test SzczecINformatyczny
 [First place!](https://web.archive.org/web/20170515195525/http://www.wi.zut.edu.pl:80/aktualnosci/6949-wielki-test-szczecinformatyczny-2017) 🏆 (out of 44 contestants)
 
